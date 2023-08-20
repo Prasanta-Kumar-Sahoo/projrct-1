@@ -1,0 +1,74 @@
+{
+    "all": {
+        "runs": 22400,
+        "average": 53.72,
+        "strike_rate": 0.79,
+        "dots": 55,
+        "fours": 2209,
+        "sixes": 240
+    },
+    "inning_1": {
+        "runs": 9227,
+        "average": 48.06,
+        "strike_rate": 0.83,
+        "dots": 51,
+        "fours": 851,
+        "sixes": 107
+    },
+    "inning_2": {
+        "runs": 10894,
+        "average": 64.46,
+        "strike_rate": 0.82,
+        "dots": 54,
+        "fours": 1112,
+        "sixes": 124
+    },
+    "raos": {
+        "runs": 107,
+        "average": 107,
+        "strike_rate": 1.2,
+        "dots": 25,
+        "fours": 10,
+        "sixes": 1
+    },
+    "laos": {
+        "runs": 73,
+        "average": 36.5,
+        "strike_rate": 1.14,
+        "dots": 23,
+        "fours": 5,
+        "sixes": 1
+    },
+    "rals": {
+        "runs": 212,
+        "average": 42.4,
+        "strike_rate": 1.36,
+        "dots": 25,
+        "fours": 16,
+        "sixes": 7
+    },
+    "lals": {
+        "runs": 76,
+        "average": 76,
+        "strike_rate": 1.69,
+        "dots": 28,
+        "fours": 3,
+        "sixes": 6
+    },
+    "laf": {
+        "runs": 144,
+        "average": 28.8,
+        "strike_rate": 1.44,
+        "dots": 29,
+        "fours": 9,
+        "sixes": 8
+    },
+    "raf": {
+        "runs": 589,
+        "average": 45.31,
+        "strike_rate": 1.4,
+        "dots": 34,
+        "fours": 63,
+        "sixes": 17
+    }
+}
